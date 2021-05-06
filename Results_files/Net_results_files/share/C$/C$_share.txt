@@ -1,0 +1,21 @@
+##############################################
+Please Enter the following information on seperate lines after the "dash" marks (-) below. If you wish the field to be empty, skip the line.
+
+Share name        
+Path              
+Remark            
+Maximum users     
+Users
+Caching           
+Permission        
+----------------------------------------------
+C$
+C:\       
+Default share
+No limit
+
+Manual caching of documents
+Everyone, FULL
+
+
+

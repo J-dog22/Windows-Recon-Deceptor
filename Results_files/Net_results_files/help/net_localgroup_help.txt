@@ -1,0 +1,6 @@
+The syntax of this command is:
+
+NET LOCALGROUP
+[groupname [/COMMENT:"text"]] [/DOMAIN]
+              groupname {/ADD [/COMMENT:"text"] | /DELETE}  [/DOMAIN]
+              groupname name [...] {/ADD | /DELETE} [/DOMAIN]
