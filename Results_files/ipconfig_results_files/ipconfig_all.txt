@@ -1,0 +1,179 @@
+!------------------------------------------------------------------------------
+Formatting (Please follow if editing this file & take note of the "<" and ">"):
+
+Windows IP Configuration
+<
+
+   Host Name . . . . . . . . . . . . : [data]
+   Primary Dns Suffix  . . . . . . . : [data]
+   Node Type . . . . . . . . . . . . : [data]
+   IP Routing Enabled. . . . . . . . : [Yes|No]
+   WINS Proxy Enabled. . . . . . . . : [Yes|No]
+   DNS Suffix Search List. . . . . . : [data]>
+
+Wireless LAN adapter Local Area Connection*:
+
+   Media State . . . . . . . . . . . : [Media connected|Media disconnected]
+   Connection-specific DNS Suffix  . : [data]<
+   Description . . . . . . . . . . . : [data]
+   Physical Address. . . . . . . . . : [data]
+   DHCP Enabled. . . . . . . . . . . : [Yes|No]
+   Autoconfiguration Enabled . . . . : [Yes|No]>
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : [data]<
+   Description . . . . . . . . . . . : [data]
+   Physical Address. . . . . . . . . : [data]
+   DHCP Enabled. . . . . . . . . . . : [Yes|No]
+   Autoconfiguration Enabled . . . . : [Yes|No]>
+   Link-local IPv6 Address . . . . . : [data(Preferred|Deprecated)]
+   IPv4 Address. . . . . . . . . . . : [data(Preferred|Deprecated)]
+   Subnet Mask . . . . . . . . . . . : [data]
+   Default Gateway . . . . . . . . . : [data]<
+   DHCPv6 IAID . . . . . . . . . . . : [data]
+   DHCPv6 Client DUID. . . . . . . . : [data]
+   DNS Servers . . . . . . . . . . . : [data]
+                                       [data]
+				       ...
+                                       [data]
+   NetBIOS over Tcpip. . . . . . . . : [Enabled|Disabled]>
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : [data]<
+   Description . . . . . . . . . . . : [data]
+   Physical Address. . . . . . . . . : [data]
+   DHCP Enabled. . . . . . . . . . . : [Yes|No]
+   Autoconfiguration Enabled . . . . : [Yes|No]>
+   IPv6 Address. . . . . . . . . . . : [data(Preferred|Deprecated)]<
+   Lease Obtained. . . . . . . . . . : [date time]
+   Lease Expires . . . . . . . . . . : [date time]>
+   IPv6 Address. . . . . . . . . . . : [data(Preferred|Deprecated)]
+   Temporary IPv6 Address. . . . . . : [data(Preferred|Deprecated)]
+   Temporary IPv6 Address. . . . . . : [data(Preferred|Deprecated)]
+   Link-local IPv6 Address . . . . . : [data(Preferred|Deprecated)]
+   IPv4 Address. . . . . . . . . . . : [data(Preferred|Deprecated)]
+   Subnet Mask . . . . . . . . . . . : [data]<
+   Lease Obtained. . . . . . . . . . : [date time]
+   Lease Expires . . . . . . . . . . : [date time]>
+   Default Gateway . . . . . . . . . : [data]
+                                       [data]<
+   DHCP Server . . . . . . . . . . . : [data]
+   DHCPv6 IAID . . . . . . . . . . . : [data]
+   DHCPv6 Client DUID. . . . . . . . : [data]
+   DNS Servers . . . . . . . . . . . : [data]
+                                       [data]
+                                       ...
+                                       [data]
+   NetBIOS over Tcpip. . . . . . . . : [Enabled|Disabled]>
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : [Media connected|Media disconnected]
+   Connection-specific DNS Suffix  . : [data]<
+   Description . . . . . . . . . . . : [data]
+   Physical Address. . . . . . . . . : [data]
+   DHCP Enabled. . . . . . . . . . . : [Yes|No]
+   Autoconfiguration Enabled . . . . : [Yes|No]>
+------------------------------------------------------------------------------?
+Windows IP Configuration
+<
+   Host Name . . . . . . . . . . . . : DESKTOP-CFRS780S2021
+   Primary Dns Suffix  . . . . . . . :
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : hsd1.ca.google.com>
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :<
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : F2-88-A6-F1-2B-FA
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes>
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media connected
+   Connection-specific DNS Suffix  . :<
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : FF-00-FF-11-FF-22
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes>
+
+Ethernet adapter VMware Network Adapter VMnet0:
+
+   Connection-specific DNS Suffix  . :<
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet0
+   Physical Address. . . . . . . . . : 01-23-45-67-89-01
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes>
+   Link-local IPv6 Address . . . . . : fe80::235c:9aad:999d:a88%2(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.126.1(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :<
+   DHCPv6 IAID . . . . . . . . . . . : 50388214
+   DHCPv6 Client DUID. . . . . . . . : 00-01-02-03-04-05-06-07-08-09-0A-0B-0C-0D
+   DNS Servers . . . . . . . . . . . : fec0:0:1:ffff::1%1
+                                       fec0:0:2:ffff::2%1
+                                       fec0:0:3:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled>
+
+Ethernet adapter VMware Network Adapter VMnet2:
+
+   Connection-specific DNS Suffix  . :<
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet2
+   Physical Address. . . . . . . . . : 01-98-76-54-32-10
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes>
+   Link-local IPv6 Address . . . . . : fe80::aaaa:695:f0f5:38f4%5(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.5.1(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . :<
+   DHCPv6 IAID . . . . . . . . . . . : 112361888
+   DHCPv6 Client DUID. . . . . . . . : 00-01-02-01-00-12-45-DA-DB-12-09-7A-4A-C8
+   DNS Servers . . . . . . . . . . . : fec0:1:1:ffff::1%1
+                                       fec0:2:2:ffff::2%1
+                                       fec0:3:3:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled>
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : hsd1.ca.google.com<
+   Description . . . . . . . . . . . : Realtek 8822BE Wireless LAN 802.11ac PCI-E NIC
+   Physical Address. . . . . . . . . : B0-0C-AB-0A-77-F1 
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes>
+   IPv6 Address. . . . . . . . . . . : 2603:5ca:c890:1be0::3622(Preferred)<
+   Lease Obtained. . . . . . . . . . : Wednesday, April 28, 2021 11:58:42 AM
+   Lease Expires . . . . . . . . . . : Sunday, May 2, 2021 10:24:31 AM>
+   IPv6 Address. . . . . . . . . . . : 2621:5ca:c288:1bb0:6919:bb69:ac26:1e86(Preferred)
+   Temporary IPv6 Address. . . . . . : 2621:5ca:c288:1bb0:5a4:35d8:8a08:4d58(Deprecated)
+   Temporary IPv6 Address. . . . . . : 2621:5ca:c288:1bb0:785b:75b3:1b1d:dab5(Preferred)
+   Link-local IPv6 Address . . . . . : fe80::6909:bd69:ac36:1f86%10(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.1.88(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0<
+   Lease Obtained. . . . . . . . . . : Wednesday, April 28, 2021 11:58:40 AM
+   Lease Expires . . . . . . . . . . : Sunday, May 2, 2021 10:26:23 AM>
+   Default Gateway . . . . . . . . . : fe80::a870:5dff:fe48:29e7%10
+                                       192.168.0.1<
+   DHCP Server . . . . . . . . . . . : 192.168.0.1
+   DHCPv6 IAID . . . . . . . . . . . : 112224486
+   DHCPv6 Client DUID. . . . . . . . : AA-01-7B-09-62-78-CA-F2-10-B2-AA-9F-B9-08
+   DNS Servers . . . . . . . . . . . : 2021:888:feed::1
+                                       2021:888:feed::2
+                                       75.75.75.75
+                                       75.75.76.76
+   NetBIOS over Tcpip. . . . . . . . : Enabled>
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media connected
+   Connection-specific DNS Suffix  . :<
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : B0-88-B0-88-BB-B0
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes>
